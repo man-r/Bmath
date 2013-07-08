@@ -1,4 +1,4 @@
 Bmath
 =====
 
-Bmath is a java library for binary number math operations
+Bmath is a javascript library for binary number math operations
